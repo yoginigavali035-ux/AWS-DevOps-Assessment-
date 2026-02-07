@@ -1,3 +1,6 @@
+AWS & DevOps Internship Assignment — Simple README
+
+
 📌 Project Overview
 
 This project demonstrates deployment of a simple Frontend + Backend + Database application using Docker and AWS services including EC2, Application Load Balancer, and Auto Scaling Group. The goal is to build a working cloud‑ready architecture using cost‑optimized resources.
@@ -15,7 +18,7 @@ Docker containerization
 AWS EC2 deployment
 
 Load balancing and auto scaling
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🏗️ Project Architecture
 
@@ -129,6 +132,7 @@ Port not reachable → Check Docker port mapping
 This project successfully demonstrates a simple full-stack application using Flask and MySQL, containerized with Docker and deployed on AWS EC2.
 The setup includes secure access, load balancing, and auto scaling for reliability and cost optimization. 
 It shows practical understanding of DevOps workflow from application build to scalable cloud deployment.
+
 
 
 
