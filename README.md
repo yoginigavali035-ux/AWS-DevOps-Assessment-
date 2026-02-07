@@ -1,4 +1,4 @@
-AWS & DevOps Internship Assignment — Simple README
+## AWS & DevOps Internship Assignment — Simple README
 
 
 📌 Project Overview
@@ -132,6 +132,7 @@ Port not reachable → Check Docker port mapping
 This project successfully demonstrates a simple full-stack application using Flask and MySQL, containerized with Docker and deployed on AWS EC2.
 The setup includes secure access, load balancing, and auto scaling for reliability and cost optimization. 
 It shows practical understanding of DevOps workflow from application build to scalable cloud deployment.
+
 
 
 
