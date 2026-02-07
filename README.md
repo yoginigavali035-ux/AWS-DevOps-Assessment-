@@ -19,7 +19,16 @@ Load balancing and auto scaling
 
 🏗️ Project Architecture
 
-![image alt]("")
+aws-devops-assignment/
+├─ backend/
+│ ├─ Dockerfile
+│ ├─ index.js
+│ ├─ package.json
+│ └─ frontend/
+│ ├─ index.html
+│ ├─ register.html
+│ └─ login.html
+└─ docker-compose.yml
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🧰 Technology Stack
@@ -120,6 +129,7 @@ Port not reachable → Check Docker port mapping
 This project successfully demonstrates a simple full-stack application using Flask and MySQL, containerized with Docker and deployed on AWS EC2.
 The setup includes secure access, load balancing, and auto scaling for reliability and cost optimization. 
 It shows practical understanding of DevOps workflow from application build to scalable cloud deployment.
+
 
 
 
