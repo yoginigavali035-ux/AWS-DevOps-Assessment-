@@ -110,19 +110,19 @@ No over‑provisioning
 
 ## Troubleshooting
 
-![alt image]("https://github.com/yoginigavali035-ux/AWS-DevOps-Assessment-/blob/master/screenshots/users.jpeg").
+![alt image](https://github.com/yoginigavali035-ux/AWS-DevOps-Assessment-/blob/master/screenshots/users.jpeg).
 
-![alt image]("https://github.com/yoginigavali035-ux/AWS-DevOps-Assessment-/blob/master/screenshots/get%20error.jpeg").
+![alt image](https://github.com/yoginigavali035-ux/AWS-DevOps-Assessment-/blob/master/screenshots/get%20error.jpeg).
 
-![alt image]("https://github.com/yoginigavali035-ux/AWS-DevOps-Assessment-/blob/master/screenshots/front%20end.jpeg")
+![alt image](https://github.com/yoginigavali035-ux/AWS-DevOps-Assessment-/blob/master/screenshots/front%20end.jpeg)
 
-![alt image]("https://github.com/yoginigavali035-ux/AWS-DevOps-Assessment-/blob/master/screenshots/form.jpeg")
+![alt image](https://github.com/yoginigavali035-ux/AWS-DevOps-Assessment-/blob/master/screenshots/form.jpeg)
 
-![alt image]("https://github.com/yoginigavali035-ux/AWS-DevOps-Assessment-/blob/master/screenshots/directory%20error.jpeg")
+![alt image](https://github.com/yoginigavali035-ux/AWS-DevOps-Assessment-/blob/master/screenshots/directory%20error.jpeg)
 
-![alt image]("https://github.com/yoginigavali035-ux/AWS-DevOps-Assessment-/blob/master/screenshots/code.jpeg")
+![alt image](https://github.com/yoginigavali035-ux/AWS-DevOps-Assessment-/blob/master/screenshots/code.jpeg)
 
-![alt image]("https://github.com/yoginigavali035-ux/AWS-DevOps-Assessment-/blob/master/screenshots/code.jpeg")
+![alt image](https://github.com/yoginigavali035-ux/AWS-DevOps-Assessment-/blob/master/screenshots/code.jpeg)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -131,6 +131,7 @@ No over‑provisioning
 This project successfully demonstrates a simple full-stack application using Flask and MySQL, containerized with Docker and deployed on AWS EC2.
 The setup includes secure access, load balancing, and auto scaling for reliability and cost optimization. 
 It shows practical understanding of DevOps workflow from application build to scalable cloud deployment.
+
 
 
 
