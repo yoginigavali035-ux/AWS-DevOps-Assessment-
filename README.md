@@ -14,7 +14,7 @@ Simple HTML frontend
 
 Python Flask backend API
 
-MySQL database
+MongoDB database
 
 Docker containerization
 
@@ -43,7 +43,7 @@ Frontend: HTML + JavaScript
 
 Backend: js
 
-Database: MySQL
+Database: MongoDB
 
 Containerization: Docker + Docker Compose
 
@@ -58,7 +58,7 @@ Load Balancing: Application Load Balancer
 
 Created Flask API (/users endpoint)
 
-Connected Flask to MySQL
+Connected Flask to MongoDB
 
 Created simple HTML frontend
 
@@ -78,7 +78,7 @@ docker compose up -d
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Phase 3 — EC2 Deployment
 
-Launched t2.micro EC2
+Launched t3.micro EC2
 
 Installed Docker
 
@@ -98,7 +98,7 @@ Scaling based on CPU usage
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Cost Optimization
 
-Used free‑tier t2.micro
+Used free‑tier t3.micro
 
 Minimal storage
 
@@ -131,6 +131,7 @@ No over‑provisioning
 This project successfully demonstrates a simple full-stack application using Flask and MySQL, containerized with Docker and deployed on AWS EC2.
 The setup includes secure access, load balancing, and auto scaling for reliability and cost optimization. 
 It shows practical understanding of DevOps workflow from application build to scalable cloud deployment.
+
 
 
 
